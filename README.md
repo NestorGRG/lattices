@@ -1,6 +1,6 @@
 # Crystal Lattices
 
-Python script that visualizes the four main Bravais lattice types in 3D: Simple Cubic (SC), Body-Centered Cubic (BCC), Face-Centered Cubic (FCC), and Hexagonal Close-Packed (HCP).
+Python script that visualizes the four main 3D Bravais lattice types: Simple Cubic (SC), Body-Centered Cubic (BCC), Face-Centered Cubic (FCC), and Hexagonal Close-Packed (HCP).
 
 ## Output
 
