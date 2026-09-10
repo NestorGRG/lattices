@@ -4,7 +4,7 @@ Python script that visualizes the four main Bravais lattice types in 3D: Simple 
 
 ## Output
 
-![Bravais Lattices](fcc_planes_tesis.png)
+![Bravais Lattices](bravais_lattices_tesis.png)
 
 ## Usage
 
